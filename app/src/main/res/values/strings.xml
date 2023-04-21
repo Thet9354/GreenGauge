@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GreenGauge</string>
+    <string name="start_btn">Start Here</string>
+
+    <string name="public_transport">Taking public transportation such as buses, trains, and subways can significantly reduce your carbon footprint, as they are more fuel-efficient than individual cars.</string>
+    <string name="carpool">Sharing a ride with others reduces the number of cars on the road and lowers carbon emissions. Consider carpooling with friends, neighbors, or coworkers.</string>
+    <string name="electric">If you must drive, consider switching to an electric or hybrid car, which produces less greenhouse gas emissions than a traditional gasoline-powered car.</string>
+    <string name="walk">For short trips, consider walking or biking instead of driving. Not only is it better for the environment, but it\'s also a great way to get some exercise.</string>
+    <string name="maintain">Regular car maintenance, such as keeping tires properly inflated, can improve fuel efficiency and reduce emissions.</string>
+    <string name="unneccessary_trip">Plan your trips to reduce the number of miles you drive. Combine errands and make fewer trips overall.</string>
+
+</resources>
